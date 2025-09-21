@@ -47,8 +47,7 @@ The core of this project is a multi-agent system where a `lead_agent` orchestrat
     ```bash
     pip install -r requirements.txt
     ```
-    *Note: The `requirements.txt` file is not included in the provided code, so you'll need to create one. A basic version would include `pydantic-ai`, `pydantic`, `tavily`, and `python-dotenv`.*
-
+    
 4.  **Set up your environment variables:**
     * Create a `.env` file in the root directory of your project.
     * Add your API keys to this file. You will need a key for your chosen LLM and a Tavily API key.
